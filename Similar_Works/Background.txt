@@ -8,3 +8,11 @@ insight into how to do team analysis.  Namely, both movevement tracking and even
 to accrue the necessary data, and than certain data modelling and mining tools must be used to analyze the
 data.  This is not a very technical paper, but it does a good job of explaining why team sports cannot be
 properly analyzed using the normal statistics that are recorded.
+
+Expected_Possession_Value.pdf
+  This paper takes an interesting approach on modelling and essentially "monetizing" all actions that occur
+during a possession for an offensive team.  Using the same data that this project will use, this model involves
+a fully continuous model combined with a coarsened model (using Markov chains) to determine Expected Possession 
+Value based on which player has the ball and in what position he is in.  What is of value from this paper
+is the methods they use to parse the data, as well as their unique approach of combining two models, with one
+of them being continuous.  This project will use a similar approach
