@@ -15,4 +15,4 @@ during a possession for an offensive team.  Using the same data that this projec
 a fully continuous model combined with a coarsened model (using Markov chains) to determine Expected Possession 
 Value based on which player has the ball and in what position he is in.  What is of value from this paper
 is the methods they use to parse the data, as well as their unique approach of combining two models, with one
-of them being continuous.  This project will use a similar approach
+of them being continuous.
