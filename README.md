@@ -15,8 +15,11 @@ I am not entirely sure which of my desired features will be able to be successfu
 tentative list:
 
 Scoring
+
 Passing
-Fould Created
+
+Fouls Created
+
 Attacking with Numbers
 Range/Defensive Gravity
 Screening Quality
