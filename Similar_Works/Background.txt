@@ -26,3 +26,4 @@ similarly uses graphs to represent players and their relations, limiting the gra
 together to determine the players' efficiency.  Then, it uses Eigenvector centrality to then determine how 
 successful they are in their role.
 
+Player-Performance-Mixed-Models.pdf
