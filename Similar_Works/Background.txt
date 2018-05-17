@@ -1,2 +1,10 @@
 This file is to give a little background and a short summary of some of the papers 
 that have attempted to do similar steps or use similar processes.
+
+Team_Sport_Data.pdf
+  It is very difficult to analyze team sports due to their free flowing nature, as well as the high
+number of movement and actions that are very difficult to track as well as rate.  This article gives
+insight into how to do team analysis.  Namely, both movevement tracking and event tracking are necessary
+to accrue the necessary data, and than certain data modelling and mining tools must be used to analyze the
+data.  This is not a very technical paper, but it does a good job of explaining why team sports cannot be
+properly analyzed using the normal statistics that are recorded.
