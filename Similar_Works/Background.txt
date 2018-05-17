@@ -32,5 +32,3 @@ Using two linear mixed models, it names a number of potential variables that aff
 all of them to see which of them follow similar trends to results.  This model only uses basic statistical data that
 can be found on the two main NBA statistical websites, and is able to identify a number of variables that are important
 that most would overlook.
-
-Regression-Analysis-Prediction.pdf
