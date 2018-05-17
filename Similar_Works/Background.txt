@@ -18,3 +18,11 @@ is the methods they use to parse the data, as well as their unique approach of c
 of them being continuous.
 
 
+Evaluating-Basketball-Player-Performance-via-Statistical-Network-Modelling.pdf
+  This paper attempts to quantify a players impact on his teammates by identifying all two man combinations of
+players and how successful they are.  Each player is then ranked based on their statistical contributions,
+determining both the players' role in the team, as well as how adept he was at performing his role.  The model
+similarly uses graphs to represent players and their relations, limiting the graphs to 5 man units that play
+together to determine the players' efficiency.  Then, it uses Eigenvector centrality to then determine how 
+successful they are in their role.
+
