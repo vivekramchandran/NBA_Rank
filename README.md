@@ -21,21 +21,37 @@ Passing
 Fouls Created
 
 Attacking with Numbers
+
 Range/Defensive Gravity
+
 Screening Quality
+
 Off-Ball Movement
+
 Ability to Create Space
+
 Defensive Pull
+
 Offesnive Rebounding
+
 Transition Offense
+
 Success Attacking Switches
+
 Transition Defense
+
 Ability to Switch
+
 Rim Protection
+
 One-on-one defense
+
 Rebounding/Boxing Out
+
 Win Score (Wins Produced)
+
 True Shooting Percentage
+
 Usage Percentage
 
 Note that some of these are just basic statistics that can be found anywhere, others will be weighted combinations
