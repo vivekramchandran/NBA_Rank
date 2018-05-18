@@ -60,7 +60,7 @@ of common statistics and player movement data, and some are solely based on the 
 ### Create Graphs for each statistic/feature
 
 Each one of these statistics will have their own graph for each team.  Each player will be represented as a node,
-with the node containing a value taht will represent each players' value in that statistic.  Weighted edges will
+with the node containing a value that will represent each players' value in that statistic.  Weighted edges will
 represent the ranking and relationship between each player in terms of that given statistic.  The weights of these
 graphs will need to be trained over the course of at least one seasons worth of data.  The connectivity of each of
 these graphs will be represented as an adjacency matrix.  If the matrix is too dense, then techniques to sparcify
